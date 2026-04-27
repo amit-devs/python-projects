@@ -1,0 +1,4 @@
+sounddevice
+SpeechRecognition
+pyttsx3
+numpy
